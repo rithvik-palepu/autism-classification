@@ -46,7 +46,7 @@ reports/
   - All transformations (scaling, PCA, feature selection) occur inside CV folds to avoid data leakage.
   - Metrics reported: Accuracy, ROC-AUC, and site-wise generalization.
 
-## MIT Lisence
+## MIT License
 Copyright (c) [2025] [Rithvik Palepu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
