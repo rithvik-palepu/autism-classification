@@ -27,6 +27,6 @@ def process_all(input_dir, output_dir):
         print(f"Saved {out_path.name}")
 
 if __name__ == "__main__":
-    input_dir = "data/raw/abide_cc200/Outputs/cpac/filt_global/rois_cc200"
+    input_dir = "/Users/rithvikpalepu/PycharmProjects/autism-classification/data/raw/abide_cc200/rois_cc200"
     output_dir = "data/interim/connectomes_cc200"
     process_all(input_dir, output_dir)
