@@ -1,0 +1,11 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# ignore data folder contents
+data/raw
+data/interim/
+data/processed/
+
+# envs/os
+.venv/
+venv/
+.DS_Store
