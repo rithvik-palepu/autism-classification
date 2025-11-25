@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+nilearn
+matplotlib
+scipy
+joblib
+seaborn
+shap
+neuroHarmonize
+statsmodels
